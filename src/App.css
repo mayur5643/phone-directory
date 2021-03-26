@@ -42,11 +42,8 @@
     color: #808080;
     text-transform: uppercase;
 }
-.delete-btn{
-    text-transform: uppercase;
-    color: black;
-    background: pink;
-    text-align: center;
-    padding: 8px;
-    cursor: pointer;
+
+.delete-btn {
+    background: #fa9c9c;
+    color: #000;
 }
